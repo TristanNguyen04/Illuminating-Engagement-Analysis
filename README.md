@@ -1,4 +1,7 @@
-# Executive Summary
+
+<p align="center">
+  Executive Summary
+</p>
 Lighting conditions play a crucial role in influencing user engagement levels. However, the existing
 lighting control systems (at our site) often utilize generic, one-size-fits-all approaches, failing
 to account for the nuances of individual user preferences and environmental factors. This project
