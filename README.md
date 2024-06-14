@@ -1,8 +1,6 @@
-
+# Executive Summary
 <p align="center">
-  Executive Summary
-</p>
-Lighting conditions play a crucial role in influencing user engagement levels. However, the existing
+  Lighting conditions play a crucial role in influencing user engagement levels. However, the existing
 lighting control systems (at our site) often utilize generic, one-size-fits-all approaches, failing
 to account for the nuances of individual user preferences and environmental factors. This project
 tackles this challenge by leveraging a data-driven approach, aiming to develop an intelligent system
@@ -48,3 +46,5 @@ techniques, tuning hyperparameters through techniques like grid search or Bayesi
 collecting more real-world data across diverse lighting scenarios and user demographics, and comparing
 the MLP’s performance against other model architectures like decision trees or gradient boosting
 machines to identify the most comprehensive and scalable approach.
+</p>
+
