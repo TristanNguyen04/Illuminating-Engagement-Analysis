@@ -7,7 +7,8 @@ tackles this challenge by leveraging a data-driven approach, aiming to develop a
 capable of accurately predicting user engagement levels based on prevailing lighting conditions. The
 ultimate goal is to enable strategic lighting adjustment and optimization, maximizing user engagement
 through customized lighting setups.
-
+<p>
+<p align="center">
 Several key assumptions underpin the proposed solution. First, the collected data on lighting
 conditions (light intensity, colour temperature, and ambient noise levels) and user engagement metrics
 must be representative of the target user population and environment. Second, the data must
@@ -18,7 +19,8 @@ engagement variable. Additionally, it is assumed that the network architecture, 
 and training process have been optimized to achieve robust and accurate predictions, and that the
 trained model can generalize well to new, unseen data, providing reliable predictions for enhancing
 user experiences.
-
+</p>
+<p align="center">
 The chosen solution method employs an MLP neural network model with an input layer, two
 hidden layers (first layer within 10 neurons and second layer within 5 neurons) and an output layer.
 The model learns a nonlinear mapping function, parametrized by weight matrices and bias vectors,
@@ -34,7 +36,8 @@ levels. Various visualizations, including 3D plots, contour plots, and partial d
 plots, were generated to assess the model’s performance and interpretability. These visualizations
 provide insights into the model’s predictions and the influence of individual input features on the
 predicted engagement levels.
-
+</p>
+<p align="center">
 The proposed MLP model exhibits several strengths, including the ability to model complex,
 nonlinear relationships, a flexible and adaptive architecture facilitated by multiple hidden layers and
 nonlinear activation functions, and a data-driven approach that uncovers insights directly from the
@@ -47,4 +50,3 @@ collecting more real-world data across diverse lighting scenarios and user demog
 the MLP’s performance against other model architectures like decision trees or gradient boosting
 machines to identify the most comprehensive and scalable approach.
 </p>
-
